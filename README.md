@@ -11,5 +11,5 @@
 
 ### In order to optimize the performance of our Hero; SARSA, and Q-Learning with multiple settings were used to find the optimal parameters.
 
-This is the grid world we've worked on.
+### This is the grid world we've worked on.
 ![gw](gw.png)
