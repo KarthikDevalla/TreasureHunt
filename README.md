@@ -9,6 +9,7 @@
 ### __Objective__: Reach the treasure with maximum reward. The hero must avoid wild animals to prevent health loss and strategically collect health boosts and restoration potions to maintain a high health level during the journey.
 
 
-### In order to optimize the performance of Hero, SARSA, and Q-Learning with multiple settings were used to find the optimal parameters.
+### In order to optimize the performance of our Hero; SARSA, and Q-Learning with multiple settings were used to find the optimal parameters.
 
+This is the grid world we've worked on.
 ![gw](gw.png)
