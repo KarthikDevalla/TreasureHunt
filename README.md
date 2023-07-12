@@ -11,4 +11,4 @@
 
 ### In order to optimize the performance of Hero, SARSA, and Q-Learning with multiple settings were used to find the optimal parameters.
 
-![gw](https://imgur.com/TwXut7B)
+![gw](https://imgur.com/a/MZu2HO3)
