@@ -1,5 +1,7 @@
 # Teasure Hunt: A Grid-World Problem.
 
+
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 ## Treasure Hunt is set in a forest environment where the main character/ hero embarks on a journey through the green depths of the unknown to find the Hidden Treasure. Where the hero might encounter ferocious beasts and wild animals or healing portions in order to complete the quest and find the treasure.
 
 ### __Theme__: Adventure Grid World with health as positive rewards and wild animals as negative rewards.
